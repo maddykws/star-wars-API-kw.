@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Madhav/star-wars-api.git"
+    "url": "git+https://github.com/madhavkratos/Star-wars-API.git"
   },
   "author": "Madhav",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Madhav/star-wars-api/issues"
+    "url": "https://github.com/madhavkratos/Star-wars-API.git/issues"
   },
   "homepage": "https://github.com/Madhav/star-wars-api#readme",
   "devDependencies": {},
